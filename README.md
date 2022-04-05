@@ -5,6 +5,6 @@
 
 ## Team Members
 
-* Team Member 1: Paul Depola 
+* Team Member 1: Connie Deng 
 * Team Member 2: Jaycob White
 * Team Member 3: Zain Mckay
